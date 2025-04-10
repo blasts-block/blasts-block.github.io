@@ -1,1 +1,1 @@
-# blasts-block.github.io
+Welcome to Blast Block
